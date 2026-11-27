@@ -1,0 +1,5 @@
+﻿lab_id,extract_id,protocol,processed_by,extraction_date,sample_weight,volume,concentration,storage,project,comments
+TEST001,TEST001A,Dabney,Love Dalen,2021.10.08,53,50,0.003,CPG aDNA lab,2021_mammoth_ivory,hello world
+TEST001,TEST001B,Dabney,Love Dalen,2021.10.08,56,40,0.0001,CPG historical lab,2021_mammoth_ivory,hello world
+TEST001,TEST001C,Dabney,Love Dalen,2021.10.08,58,50,0.0003,CPG modern lab,2021_mammoth_ivory,hello world
+TEST001,TEST001D,Dabney,Love Dalen,2021.10.08,48,50,0.0005,Tubingen,2021_mammoth_ivory,hello world

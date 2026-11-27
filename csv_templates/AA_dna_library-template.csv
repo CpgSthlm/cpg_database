@@ -1,0 +1,5 @@
+﻿lab_id,library_id,protocol,processed_by,library_date,storage,amp_enzyme,volume,cq_value,concentration,project,comments,tapestation
+TEST001,TEST001A1,dsLibrary UDG half Rohland 2015,Love Dalen,2021.08.12,CPG aDNA lab,Accuprime,25,14,3.908,2021_mammoth_ivory,,https://drive.google.com/file/d/1_9Ri72AYRFABpjLE823vUh1LCcuz-Bt2/view
+TEST001,TEST001A2,dsLibrary UDG half Rohland 2015,Love Dalen,2021.08.12,CPG historical lab,Accuprime,25,12,6.974,2021_mammoth_ivory,,https://drive.google.com/drive/folders/1GPSnZSQnQZTEeMHjLlp62LsgTl-b22ms
+TEST001,TEST001A3,dsLibrary UDG half Rohland 2015,Love Dalen,2021.08.12,CPG modern lab,Accuprime,25,13,4.785,2021_mammoth_ivory,,link to gdrive or folder
+TEST001,TEST001A4,dsLibrary UDG half Rohland 2015,Love Dalen,2021.08.12,CPG aDNA lab,Accuprime,25,16,3.175,2021_mammoth_ivory,,link to gdrive or folder

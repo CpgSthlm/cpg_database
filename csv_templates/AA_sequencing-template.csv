@@ -1,0 +1,5 @@
+﻿lab_id,library_id,sequencing_id,seq_platform,seq_setup,p7_p5_id,raw_reads,merged_reads,ref_genome,mapping_program,mapped_reads,read_length_cutoff,filtered_reads,mq_filter,unique_reads,coverage,mito_coverage,min_read_length,max_read_length,mean_read_length,median_read_lenth,deep_seq,comments,mapdamage_amber
+TEST001,TEST001A1,TEST001.01.10,Illumina NovaSeq X,PE100,10-98,32879143,29307014,ElephantMan (LoxAfr4),BWA,59035,25,33600,25,46046,0.001,1.989,35,142,46,49,YES,,link to gdrive folder or file
+TEST001,TEST001A2,TEST001.01.11,Illumina NovaSeq X,PE100,13-101,51584194,43552352,ElephantMan (LoxAfr4),BWA,43752,25,28495,25,38435,0.002,2.341,35,143,45,48,YES,,link to gdrive folder or file
+TEST001,TEST001A3,TEST001.01.12,Illumina NovaSeq X,PE100,13-101,17281768,14371717,ElephantMan (LoxAfr4),BOWTIE2,26043,25,16795,25,22618,0.34,10.341,35,147,45,48,YES,,link to gdrive folder or file
+TEST001,TEST001A4,TEST001.01.13,Illumina NovaSeq X,PE100,14-102,29890934,22353435,ElephantMan (LoxAfr4),BOWTIE2,1659684,25,195049,25,440247,23.012,109.01,35,185,41,45,YES,,link to gdrive folder or file

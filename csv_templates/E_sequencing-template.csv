@@ -1,0 +1,1 @@
+﻿lab_id,library_id,sequencing_id,seq_platform,seq_setup,p7_p5_id,raw_reads,merged_reads,ref_genome,mapping_program,mapped_reads,filtered_reads,mq_filter,unique_reads,coverage,mito_coverage,min_read_length,max_read_length,mean_read_length,median_read_lenth,comments,mapdamage_amber
